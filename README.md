@@ -10,6 +10,20 @@ Welcome to our Todo Web App! This app helps you manage your daily tasks and stay
 - Edit and delete tasks with ease
 - Lightweight and fast UI
 
+## Home Page:
+
+![Screenshot 2025-02-11 190116](https://github.com/user-attachments/assets/30b27952-1232-469c-aa36-8b1ef7335470)
+
+## About Page:
+
+![Screenshot 2025-02-11 190321](https://github.com/user-attachments/assets/83649935-d4c5-4c0c-9544-81d9cf153b14)
+
+
+## Login Page:
+![Screenshot 2025-02-11 190530](https://github.com/user-attachments/assets/bb077acd-ca45-42ac-b606-3f1e7f8e67d1)
+
+
+
 ## Technologies:
 
 **Front-end:** React.js
