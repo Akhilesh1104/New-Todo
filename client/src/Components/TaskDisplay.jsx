@@ -75,7 +75,11 @@ const TaskDisplay = ({ todo }) => {
       />
       <img
         onClick={() => handleComplete(todo._id)}
-        className="h-6 cursor-pointer"
+        className={
+          todo.status
+            ? "hidden"
+            : "h-6 cursor-pointer"
+        }
         src="https://cdn-icons-png.freepik.com/256/5610/5610944.png?ga=GA1.1.581657608.1739173084&semt=ais_hybrid"
         alt="Complete Icon"
       />
